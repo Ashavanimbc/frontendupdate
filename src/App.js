@@ -15,7 +15,7 @@ function App() {
     <div style={{ textAlign: "center", marginTop: "40px" }}>
       <h2>Employee Details (GET Method Example)</h2>
       <table border="1" style={{ margin: "auto", width: "60%" }}>
-        <thead>
+        <thead> 
           <tr>
             <th>Name</th>
             <th>Department</th>
@@ -36,4 +36,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
